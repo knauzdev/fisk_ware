@@ -18,3 +18,5 @@ The last two mentioned features was the beginning of a bot but the idea never ca
 
 Demo video:
 https://www.youtube.com/watch?v=SyDQ76M93b8
+
+The video was recorded about 2 years later after the fact, that's why you see me going through the code trying to remember my dumb command conventions.
