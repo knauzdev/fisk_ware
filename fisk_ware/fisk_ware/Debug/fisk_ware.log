@@ -1,0 +1,4 @@
+﻿detours.lib(detours.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(detours.obj)' or at 'F:\BACKUP 2017-08-04\Visual Studio 2015\Projects\fisk_ware\Debug\detours.pdb'; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB 'detours.pdb' was not found with 'detours.lib(disasm.obj)' or at 'F:\BACKUP 2017-08-04\Visual Studio 2015\Projects\fisk_ware\Debug\detours.pdb'; linking object as if no debug info
+  fisk_ware.vcxproj -> F:\BACKUP 2017-08-04\Visual Studio 2015\Projects\fisk_ware\Debug\fisk_ware.dll
+  fisk_ware.vcxproj -> F:\BACKUP 2017-08-04\Visual Studio 2015\Projects\fisk_ware\Debug\fisk_ware.pdb (Partial PDB)
